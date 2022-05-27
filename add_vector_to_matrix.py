@@ -17,3 +17,4 @@ def add_vector_to_matrix(vec, matrix):
 
 if __name__ == "__main__":
     print(add_vector_to_matrix([5, 5, 5, 5], np.arange(0, 16).reshape((4, 4))))
+    
