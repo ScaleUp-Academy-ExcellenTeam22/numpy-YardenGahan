@@ -14,3 +14,4 @@ def matrix_of_one_and_zero() -> np.matrix:
 
 if __name__ == "__main__":
     print(matrix_of_one_and_zero())
+    
