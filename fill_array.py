@@ -3,7 +3,7 @@ import numpy as np
 
 def fill_array():
     """
-    This function creates a three-dimension array with shape and set to a variable.
+    This function creates and sets a three-dimension array with shape and set to a variable.
     Fill the array elements with values using unsigned integer.
     :return: array elements with values using unsigned integer.
     """
