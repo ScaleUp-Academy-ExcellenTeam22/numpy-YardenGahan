@@ -21,3 +21,4 @@ def create_array():
 
 if __name__ == "__main__":
     print(swap_lines(create_array()))
+    
