@@ -10,7 +10,7 @@ def sort_student(id_array, height_array):
     """
     indices = np.lexsort((id_array, height_array))
     for index in indices:
-        print(id_array[index], height_array[index])
+        print(index)
 
 
 if __name__ == "__main__":
